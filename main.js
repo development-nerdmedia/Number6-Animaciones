@@ -3,7 +3,7 @@ var animation1 = bodymovin.loadAnimation({
     rederer: 'svg',
     loop: true,
     autoplay: true,
-    path: 'json/Banner home.json'
+    path: 'json/Banner-home.json'
 })
 var animation2 = bodymovin.loadAnimation({
     container: document.getElementById('A2'),
@@ -17,7 +17,7 @@ var animation3 = bodymovin.loadAnimation({
     rederer: 'svg',
     loop: true,
     autoplay: true,
-    path: 'json/beneficios - servicios.json'
+    path: 'json/beneficios-servicios.json'
 })
 var animation4 = bodymovin.loadAnimation({
     container: document.getElementById('A4'),
@@ -31,7 +31,7 @@ var animation5 = bodymovin.loadAnimation({
     rederer: 'svg',
     loop: true,
     autoplay: true,
-    path: 'json/Servicio1 v2.json'
+    path: 'json/Servicio1-v2.json'
 })
 var animation6 = bodymovin.loadAnimation({
     container: document.getElementById('A6'),
