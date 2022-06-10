@@ -3,35 +3,35 @@ var animation1 = bodymovin.loadAnimation({
     rederer: 'svg',
     loop: true,
     autoplay: true,
-    path: 'json/Banner-home.json'
+    path: 'JSON/Banner-home.json'
 })
 var animation2 = bodymovin.loadAnimation({
     container: document.getElementById('A2'),
     rederer: 'svg',
     loop: true,
     autoplay: true,
-    path: 'json/Banner-nosotros.json'
+    path: 'JSON/Banner-nosotros.json'
 })
 var animation3 = bodymovin.loadAnimation({
     container: document.getElementById('A3'),
     rederer: 'svg',
     loop: true,
     autoplay: true,
-    path: 'json/beneficios-servicios.json'
+    path: 'JSON/beneficios-servicios.json'
 })
 var animation4 = bodymovin.loadAnimation({
     container: document.getElementById('A4'),
     rederer: 'svg',
     loop: true,
     autoplay: true,
-    path: 'json/Mision.json'
+    path: 'JSON/Mision.json'
 })
 var animation5 = bodymovin.loadAnimation({
     container: document.getElementById('A5'),
     rederer: 'svg',
     loop: true,
     autoplay: true,
-    path: 'json/Servicio1-v2.json'
+    path: 'JSON/Servicio1-v2.json'
 })
 var animation6 = bodymovin.loadAnimation({
     container: document.getElementById('A6'),
@@ -73,40 +73,40 @@ var animation11 = bodymovin.loadAnimation({
     rederer: 'svg',
     loop: true,
     autoplay: true,
-    path: 'json/Socios.json'
+    path: 'JSON/Socios.json'
 })
 var animation12 = bodymovin.loadAnimation({
     container: document.getElementById('A12'),
     rederer: 'svg',
     loop: true,
     autoplay: true,
-    path: 'json/Valor1.json'
+    path: 'JSON/Valor1.json'
 })
 var animation13 = bodymovin.loadAnimation({
     container: document.getElementById('A13'),
     rederer: 'svg',
     loop: true,
     autoplay: true,
-    path: 'json/Valor2.json'
+    path: 'JSON/Valor2.json'
 })
 var animation14 = bodymovin.loadAnimation({
     container: document.getElementById('A14'),
     rederer: 'svg',
     loop: true,
     autoplay: true,
-    path: 'json/Valor3.json'
+    path: 'JSON/Valor3.json'
 })
 var animation15 = bodymovin.loadAnimation({
     container: document.getElementById('A15'),
     rederer: 'svg',
     loop: true,
     autoplay: true,
-    path: 'json/Valor4.json'
+    path: 'JSON/Valor4.json'
 })
 var animation16= bodymovin.loadAnimation({
     container: document.getElementById('A16'),
     rederer: 'svg',
     loop: true,
     autoplay: true,
-    path: 'json/Vision.json'
+    path: 'JSON/Vision.json'
 })
